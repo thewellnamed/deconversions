@@ -1,0 +1,11 @@
+---
+name: wordnet-chains
+module: wordnet-chains
+description: 'Finds lexical chains in provided set of wordnet synsets'
+author: "@matthew.kauffman"
+version: '1'
+wn_path: "../../wordnet/3.1/dict"
+requirements:
+- nltk>=3.2.4
+- lxml>=3.4.2
+async: false

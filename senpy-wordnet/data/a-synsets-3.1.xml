@@ -1,0 +1,906 @@
+<syn-list>
+    <noun-syn-list>
+        <noun-syn id="n#7532144" label="wrath.n.01" categ="wrath"/>
+        <noun-syn id="n#7516659" label="worship.n.02" categ="worship"/>
+        <noun-syn id="n#7549123" label="world-weariness.n.01" categ="world-weariness"/>
+        <noun-syn id="n#7525235" label="wonder.n.01" categ="wonder"/>
+        <noun-syn id="n#7549265" label="woe.n.02" categ="woe"/>
+        <noun-syn id="n#7521270" label="withdrawal.n.04" categ="withdrawal"/>
+        <noun-syn id="n#7554200" label="weight.n.05" categ="weight"/>
+        <noun-syn id="n#7549666" label="weepiness.n.01" categ="weepiness"/>
+        <noun-syn id="n#7513853" label="weakness.n.05" categ="weakness"/>
+        <noun-syn id="n#7564326" label="warpath.n.01" categ="warpath"/>
+        <noun-syn id="n#7561649" label="warmheartedness.n.01" categ="warmheartedness"/>
+        <noun-syn id="n#7566357" label="vindictiveness.n.01" categ="vindictiveness"/>
+        <noun-syn id="n#7528950" label="unrest.n.02" categ="unrest"/>
+        <noun-syn id="n#7517480" label="unfriendliness.n.01" categ="unfriendliness"/>
+        <noun-syn id="n#7520777" label="unconcern.n.02" categ="neutral-unconcern"/>
+        <noun-syn id="n#7538888" label="unassertiveness.n.01" categ="unassertiveness"/>
+        <noun-syn id="n#7532789" label="umbrage.n.01" categ="umbrage"/>
+        <noun-syn id="n#7529759" label="tumult.n.02" categ="tumult"/>
+        <noun-syn id="n#7543485" label="triumph.n.02" categ="triumph"/>
+        <noun-syn id="n#7537282" label="trepidation.n.01" categ="trepidation"/>
+        <noun-syn id="n#7530799" label="tranquillity.n.02" categ="tranquillity"/>
+        <noun-syn id="n#7545710" label="togetherness.n.01" categ="togetherness"/>
+        <noun-syn id="n#7544364" label="titillation.n.01" categ="titillation"/>
+        <noun-syn id="n#7537968" label="timidity.n.01" categ="timidity"/>
+        <noun-syn id="n#7495496" label="thing.n.11" categ="thing"/>
+        <noun-syn id="n#7569907" label="tenderness.n.03" categ="tenderness"/>
+        <noun-syn id="n#7568767" label="sympathy.n.02" categ="sympathy"/>
+        <noun-syn id="n#7526477" label="suspense.n.03" categ="positive-suspense"/>
+        <noun-syn id="n#7537871" label="suspense.n.01" categ="negative-suspense"/>
+        <noun-syn id="n#7525587" label="surprise.n.01" categ="surprise"/>
+        <noun-syn id="n#7564867" label="sulkiness.n.02" categ="sulkiness"/>
+        <noun-syn id="n#7525734" label="stupefaction.n.01" categ="stupefaction"/>
+        <noun-syn id="n#7529584" label="stir.n.02" categ="stir"/>
+        <noun-syn id="n#7529428" label="stewing.n.01" categ="stewing"/>
+        <noun-syn id="n#7536802" label="stage_fright.n.01" categ="stage-fright"/>
+        <noun-syn id="n#7551058" label="sorrow.n.02" categ="regret-sorrow"/>
+        <noun-syn id="n#7549818" label="sorrow.n.01" categ="lost-sorrow"/>
+        <noun-syn id="n#7520446" label="solicitude.n.01" categ="solicitude"/>
+        <noun-syn id="n#7520586" label="softheartedness.n.01" categ="softheartedness"/>
+        <noun-syn id="n#7560964" label="soft_spot.n.02" categ="soft-spot"/>
+        <noun-syn id="n#7547386" label="smugness.n.01" categ="smugness"/>
+        <noun-syn id="n#7540606" label="sinking.n.03" categ="sinking"/>
+        <noun-syn id="n#7538419" label="shyness.n.01" categ="shyness"/>
+        <noun-syn id="n#7522799" label="shamefacedness.n.01" categ="shamefacedness"/>
+        <noun-syn id="n#7521808" label="shame.n.01" categ="shame"/>
+        <noun-syn id="n#7537657" label="shadow.n.04" categ="shadow"/>
+        <noun-syn id="n#14060962" label="sensation.n.04" categ="sensation"/>
+        <noun-syn id="n#7553660" label="self-pity.n.01" categ="self-pity"/>
+        <noun-syn id="n#7523944" label="self-esteem.n.01" categ="self-esteem"/>
+        <noun-syn id="n#7522201" label="self-disgust.n.01" categ="self-disgust"/>
+        <noun-syn id="n#7524713" label="self-depreciation.n.01" categ="self-depreciation"/>
+        <noun-syn id="n#7522568" label="self-consciousness.n.01" categ="self-consciousness"/>
+        <noun-syn id="n#7541577" label="security.n.03" categ="security"/>
+        <noun-syn id="n#7540794" label="scruple.n.02" categ="scruple"/>
+        <noun-syn id="n#7536676" label="scare.n.02" categ="scare"/>
+        <noun-syn id="n#7546643" label="satisfaction.n.01" categ="satisfaction"/>
+        <noun-syn id="n#7557148" label="sanguinity.n.01" categ="sanguinity"/>
+        <noun-syn id="n#7547828" label="sadness.n.01" categ="sadness"/>
+        <noun-syn id="n#7536278" label="fear.n.03" categ="reverence"/>
+        <noun-syn id="n#7557821" label="resignation.n.01" categ="resignation"/>
+        <noun-syn id="n#7564444" label="resentment.n.01" categ="resentment"/>
+        <noun-syn id="n#7519226" label="repugnance.n.01" categ="repugnance"/>
+        <noun-syn id="n#7552258" label="repentance.n.01" categ="repentance"/>
+        <noun-syn id="n#7544951" label="rejoicing.n.01" categ="rejoicing"/>
+        <noun-syn id="n#7560785" label="regard.n.06" categ="regard"/>
+        <noun-syn id="n#7559739" label="puppy_love.n.01" categ="puppy-love"/>
+        <noun-syn id="n#7560673" label="protectiveness.n.01" categ="protectiveness"/>
+        <noun-syn id="n#7546924" label="pride.n.02" categ="satisfaction-pride"/>
+        <noun-syn id="n#7523725" label="pride.n.01" categ="joy-pride"/>
+        <noun-syn id="n#7537775" label="presage.n.01" categ="presage"/>
+        <noun-syn id="n#7513449" label="preference.n.01" categ="preference"/>
+        <noun-syn id="n#7550818" label="plaintiveness.n.01" categ="plaintiveness"/>
+        <noun-syn id="n#7530408" label="placidity.n.01" categ="placidity"/>
+        <noun-syn id="n#7533707" label="pique.n.02" categ="pique"/>
+        <noun-syn id="n#7558421" label="pessimism.n.01" categ="pessimism"/>
+        <noun-syn id="n#7548995" label="pensiveness.n.01" categ="pensiveness"/>
+        <noun-syn id="n#7531029" label="peace.n.03" categ="peace"/>
+        <noun-syn id="n#7535851" label="panic.n.01" categ="panic"/>
+        <noun-syn id="n#7556946" label="optimism.n.01" categ="optimism"/>
+        <noun-syn id="n#7554062" label="oppression.n.03" categ="oppression"/>
+        <noun-syn id="n#7519350" label="nausea.n.02" categ="nausea"/>
+        <noun-syn id="n#7563013" label="murderousness.n.01" categ="murderousness"/>
+        <noun-syn id="n#7550597" label="mournfulness.n.01" categ="mournfulness"/>
+        <noun-syn id="n#7562939" label="misopedia.n.01" categ="misopedia"/>
+        <noun-syn id="n#7562759" label="misoneism.n.01" categ="misoneism"/>
+        <noun-syn id="n#7562685" label="misology.n.01" categ="misology"/>
+        <noun-syn id="n#7562452" label="misogyny.n.01" categ="misogyny"/>
+        <noun-syn id="n#7562361" label="misogamy.n.01" categ="misogamy"/>
+        <noun-syn id="n#7562863" label="misocainea.n.01" categ="misocainea"/>
+        <noun-syn id="n#7549366" label="misery.n.02" categ="misery"/>
+        <noun-syn id="n#7562232" label="misanthropy.n.01" categ="misanthropy"/>
+        <noun-syn id="n#7570065" label="mercifulness.n.01" categ="mercifulness"/>
+        <noun-syn id="n#7548485" label="melancholy.n.01" categ="melancholy"/>
+        <noun-syn id="n#7524564" label="meekness.n.01" categ="meekness"/>
+        <noun-syn id="n#7566132" label="malice.n.01" categ="malice"/>
+        <noun-syn id="n#7565835" label="malevolence.n.01" categ="malevolence"/>
+        <noun-syn id="n#7566017" label="maleficence.n.01" categ="maleficence"/>
+        <noun-syn id="n#7561759" label="loyalty.n.02" categ="loyalty"/>
+        <noun-syn id="n#7561495" label="lovingness.n.01" categ="lovingness"/>
+        <noun-syn id="n#7558676" label="love.n.01" categ="love"/>
+        <noun-syn id="n#7532531" label="lividity.n.01" categ="lividity"/>
+        <noun-syn id="n#7512613" label="liking.n.01" categ="liking"/>
+        <noun-syn id="n#7527145" label="levity.n.01" categ="levity"/>
+        <noun-syn id="n#7499249" label="languor.n.03" categ="neutral-languor"/>
+        <noun-syn id="n#7531461" label="languor.n.01" categ="positive-languor"/>
+        <noun-syn id="n#7569056" label="kindheartedness.n.01" categ="kindheartedness"/>
+        <noun-syn id="n#7552764" label="joylessness.n.01" categ="joylessness"/>
+        <noun-syn id="n#7542591" label="joy.n.01" categ="joy"/>
+        <noun-syn id="n#7567356" label="jollity.n.01" categ="jollity"/>
+        <noun-syn id="n#7545071" label="jocundity.n.01" categ="jocundity"/>
+        <noun-syn id="n#7540999" label="jitteriness.n.01" categ="jitteriness"/>
+        <noun-syn id="n#7565545" label="jealousy.n.01" categ="jealousy"/>
+        <noun-syn id="n#7517815" label="isolation.n.02" categ="isolation"/>
+        <noun-syn id="n#7568015" label="irascibility.n.01" categ="irascibility"/>
+        <noun-syn id="n#7538999" label="intimidation.n.03" categ="fear-intimidation"/>
+        <noun-syn id="n#7558269" label="intimidation.n.02" categ="despair-intimidation"/>
+        <noun-syn id="n#7540157" label="insecurity.n.02" categ="insecurity"/>
+        <noun-syn id="n#7519950" label="ingratitude.n.01" categ="ingratitude"/>
+        <noun-syn id="n#7532656" label="infuriation.n.01" categ="infuriation"/>
+        <noun-syn id="n#7532976" label="indignation.n.01" categ="indignation"/>
+        <noun-syn id="n#7520915" label="indifference.n.01" categ="indifference"/>
+        <noun-syn id="n#7529310" label="impatience.n.02" categ="impatience"/>
+        <noun-syn id="n#5770995" label="recognition.n.02" categ="identification"/>
+        <noun-syn id="n#7535746" label="hysteria.n.02" categ="hysteria"/>
+        <noun-syn id="n#7524370" label="humility.n.02" categ="humility"/>
+        <noun-syn id="n#7533108" label="huffiness.n.01" categ="huffiness"/>
+        <noun-syn id="n#7563271" label="hostility.n.03" categ="hostility"/>
+        <noun-syn id="n#7535650" label="horror.n.01" categ="horror"/>
+        <noun-syn id="n#7557637" label="hopelessness.n.01" categ="hopelessness"/>
+        <noun-syn id="n#7556704" label="hopefulness.n.02" categ="hopefulness"/>
+        <noun-syn id="n#7556441" label="hope.n.02" categ="positive-hope"/>
+        <noun-syn id="n#7526972" label="hope.n.01" categ="ambiguous-hope"/>
+        <noun-syn id="n#7544765" label="hilarity.n.01" categ="hilarity"/>
+        <noun-syn id="n#7538724" label="hesitance.n.01" categ="hesitance"/>
+        <noun-syn id="n#7516332" label="hero_worship.n.01" categ="hero-worship"/>
+        <noun-syn id="n#7553530" label="helplessness.n.03" categ="helplessness"/>
+        <noun-syn id="n#7548880" label="heavyheartedness.n.01" categ="heavyheartedness"/>
+        <noun-syn id="n#7521388" label="heartlessness.n.01" categ="heartlessness"/>
+        <noun-syn id="n#7564731" label="heartburning.n.01" categ="heartburning"/>
+        <noun-syn id="n#7561835" label="hate.n.01" categ="hate"/>
+        <noun-syn id="n#7534279" label="harassment.n.01" categ="harassment"/>
+        <noun-syn id="n#7541996" label="happiness.n.02" categ="happiness"/>
+        <noun-syn id="n#7507121" label="gusto.n.01" categ="gusto"/>
+        <noun-syn id="n#7551633" label="guilt.n.02" categ="guilt"/>
+        <noun-syn id="n#7565002" label="grudge.n.01" categ="grudge"/>
+        <noun-syn id="n#7550398" label="grief.n.01" categ="grief"/>
+        <noun-syn id="n#7527386" label="gravity.n.03" categ="gravity"/>
+        <noun-syn id="n#7519582" label="gratitude.n.01" categ="gratitude"/>
+        <noun-syn id="n#7519768" label="gratefulness.n.01" categ="gratefulness"/>
+        <noun-syn id="n#7515169" label="good_will.n.03" categ="good-will"/>
+        <noun-syn id="n#7548645" label="gloom.n.02" categ="gloom"/>
+        <noun-syn id="n#7547664" label="gloat.n.01" categ="gloat"/>
+        <noun-syn id="n#7542406" label="gladness.n.01" categ="gladness"/>
+        <noun-syn id="n#7527278" label="gaiety.n.02" categ="levity-gaiety"/>
+        <noun-syn id="n#7544633" label="gaiety.n.01" categ="general-gaiety"/>
+        <noun-syn id="n#7532236" label="fury.n.01" categ="fury"/>
+        <noun-syn id="n#7547500" label="fulfillment.n.01" categ="fulfillment"/>
+        <noun-syn id="n#7533902" label="frustration.n.03" categ="frustration"/>
+        <noun-syn id="n#7535351" label="frisson.n.01" categ="frisson"/>
+        <noun-syn id="n#7514854" label="friendliness.n.01" categ="friendliness"/>
+        <noun-syn id="n#7549496" label="forlornness.n.01" categ="forlornness"/>
+        <noun-syn id="n#7570205" label="forgiveness.n.01" categ="forgiveness"/>
+        <noun-syn id="n#7537367" label="foreboding.n.01" categ="foreboding"/>
+        <noun-syn id="n#7512937" label="fondness.n.01" categ="fondness"/>
+        <noun-syn id="n#14429707" label="fit.n.01" categ="fit"/>
+        <noun-syn id="n#7529034" label="fidget.n.01" categ="fidget"/>
+        <noun-syn id="n#7526619" label="fever.n.02" categ="fever"/>
+        <noun-syn id="n#7541421" label="fearlessness.n.01" categ="fearlessness"/>
+        <noun-syn id="n#7534492" label="fear.n.01" categ="negative-fear"/>
+        <noun-syn id="n#7515653" label="favor.n.04" categ="favor"/>
+        <noun-syn id="n#7543205" label="exultation.n.01" categ="exultation"/>
+        <noun-syn id="n#7571212" label="exuberance.n.01" categ="exuberance"/>
+        <noun-syn id="n#7526162" label="expectation.n.03" categ="ambiguous-expectation"/>
+        <noun-syn id="n#7543600" label="exhilaration.n.01" categ="exhilaration"/>
+        <noun-syn id="n#7544484" label="euphoria.n.01" categ="euphoria"/>
+        <noun-syn id="n#7565182" label="envy.n.01" categ="envy"/>
+        <noun-syn id="n#7570579" label="enthusiasm.n.01" categ="enthusiasm"/>
+        <noun-syn id="n#7556837" label="encouragement.n.03" categ="encouragement"/>
+        <noun-syn id="n#7570421" label="empathy.n.01" categ="empathy"/>
+        <noun-syn id="n#7498922" label="emotionlessness.n.01" categ="emotionlessness"/>
+        <noun-syn id="n#7522337" label="embarrassment.n.01" categ="embarrassment"/>
+        <noun-syn id="n#7529839" label="electricity.n.03" categ="electricity"/>
+        <noun-syn id="n#7543044" label="elation.n.02" categ="elation"/>
+        <noun-syn id="n#7524045" label="ego.n.01" categ="ego"/>
+        <noun-syn id="n#7540296" label="edginess.n.01" categ="edginess"/>
+        <noun-syn id="n#7531213" label="easiness.n.01" categ="easiness"/>
+        <noun-syn id="n#7527554" label="earnestness.n.01" categ="earnestness"/>
+        <noun-syn id="n#7570749" label="eagerness.n.01" categ="eagerness"/>
+        <noun-syn id="n#7554755" label="dysphoria.n.01" categ="dysphoria"/>
+        <noun-syn id="n#7531995" label="dudgeon.n.01" categ="dudgeon"/>
+        <noun-syn id="n#7553056" label="downheartedness.n.01" categ="downheartedness"/>
+        <noun-syn id="n#7550920" label="dolor.n.01" categ="dolor"/>
+        <noun-syn id="n#7548220" label="dolefulness.n.01" categ="dolefulness"/>
+        <noun-syn id="n#7511603" label="distress.n.01" categ="distress"/>
+        <noun-syn id="n#7521110" label="distance.n.04" categ="distance"/>
+        <noun-syn id="n#7555812" label="displeasure.n.01" categ="displeasure"/>
+        <noun-syn id="n#7516784" label="dislike.n.02" categ="dislike"/>
+        <noun-syn id="n#7517161" label="disinclination.n.01" categ="disinclination"/>
+        <noun-syn id="n#7518499" label="disgust.n.01" categ="disgust"/>
+        <noun-syn id="n#7558063" label="discouragement.n.01" categ="discouragement"/>
+        <noun-syn id="n#7523471" label="discomfiture.n.01" categ="discomfiture"/>
+        <noun-syn id="n#7518068" label="disapproval.n.01" categ="disapproval"/>
+        <noun-syn id="n#7538525" label="diffidence.n.01" categ="diffidence"/>
+        <noun-syn id="n#7559879" label="devotion.n.01" categ="devotion"/>
+        <noun-syn id="n#7553783" label="despondency.n.01" categ="despondency"/>
+        <noun-syn id="n#7563140" label="despisal.n.01" categ="despisal"/>
+        <noun-syn id="n#7557311" label="despair.n.02" categ="despair"/>
+        <noun-syn id="n#7552873" label="depression.n.04" categ="depression"/>
+        <noun-syn id="n#7553361" label="demoralization.n.03" categ="demoralization"/>
+        <noun-syn id="n#7557948" label="defeatism.n.01" categ="defeatism"/>
+        <noun-syn id="n#5692366" label="daze.n.02" categ="daze"/>
+        <noun-syn id="n#7533239" label="dander.n.02" categ="dander"/>
+        <noun-syn id="n#7558592" label="cynicism.n.01" categ="cynicism"/>
+        <noun-syn id="n#7521621" label="cruelty.n.02" categ="cruelty"/>
+        <noun-syn id="n#7535222" label="creeps.n.02" categ="creeps"/>
+        <noun-syn id="n#7565445" label="covetousness.n.01" categ="covetousness"/>
+        <noun-syn id="n#7530567" label="coolness.n.01" categ="coolness"/>
+        <noun-syn id="n#7546493" label="contentment.n.01" categ="contentment"/>
+        <noun-syn id="n#7518219" label="contempt.n.01" categ="contempt"/>
+        <noun-syn id="n#7522036" label="conscience.n.03" categ="conscience"/>
+        <noun-syn id="n#7523151" label="confusion.n.03" categ="confusion"/>
+        <noun-syn id="n#7541744" label="confidence.n.02" categ="confidence"/>
+        <noun-syn id="n#7520080" label="concern.n.03" categ="positive-concern"/>
+        <noun-syn id="n#7539768" label="concern.n.02" categ="negative-concern"/>
+        <noun-syn id="n#7551462" label="compunction.n.01" categ="compunction"/>
+        <noun-syn id="n#7547101" label="complacency.n.01" categ="complacency"/>
+        <noun-syn id="n#7570323" label="compatibility.n.01" categ="compatibility"/>
+        <noun-syn id="n#7569189" label="compassion.n.01" categ="compassion"/>
+        <noun-syn id="n#7569430" label="commiseration.n.01" categ="commiseration"/>
+        <noun-syn id="n#14468845" label="comfort.n.01" categ="comfortableness"/>
+        <noun-syn id="n#7545512" label="closeness.n.01" categ="closeness"/>
+        <noun-syn id="n#7563690" label="class_feeling.n.01" categ="class-feeling"/>
+        <noun-syn id="n#7552647" label="chill.n.04" categ="chill"/>
+        <noun-syn id="n#7552456" label="cheerlessness.n.01" categ="cheerlessness"/>
+        <noun-syn id="n#7545866" label="cheerfulness.n.02" categ="cheerfulness"/>
+        <noun-syn id="n#7522981" label="chagrin.n.01" categ="chagrin"/>
+        <noun-syn id="n#7546254" label="carefreeness.n.01" categ="carefreeness"/>
+        <noun-syn id="n#7513215" label="captivation.n.02" categ="captivation"/>
+        <noun-syn id="n#7530207" label="calmness.n.03" categ="calmness"/>
+        <noun-syn id="n#7546111" label="buoyancy.n.01" categ="buoyancy"/>
+        <noun-syn id="n#7526763" label="buck_fever.n.01" categ="buck-fever"/>
+        <noun-syn id="n#7515281" label="brotherhood.n.03" categ="brotherhood"/>
+        <noun-syn id="n#7542300" label="bonheur.n.01" categ="bonheur"/>
+        <noun-syn id="n#14427864" label="blues.n.02" categ="blue-devils"/>
+        <noun-syn id="n#7561087" label="benevolence.n.01" categ="benevolence"/>
+        <noun-syn id="n#7561203" label="beneficence.n.01" categ="beneficence"/>
+        <noun-syn id="n#7545205" label="belonging.n.01" categ="belonging"/>
+        <noun-syn id="n#7564161" label="belligerence.n.01" categ="belligerence"/>
+        <noun-syn id="n#65324" label="hit.n.03" categ="bang"/>
+        <noun-syn id="n#7533371" label="bad_temper.n.01" categ="bad-temper"/>
+        <noun-syn id="n#7525423" label="awe.n.01" categ="awe"/>
+        <noun-syn id="n#7550088" label="attrition.n.03" categ="attrition"/>
+        <noun-syn id="n#7560531" label="attachment.n.01" categ="attachment"/>
+        <noun-syn id="n#7524811" label="astonishment.n.01" categ="astonishment"/>
+        <noun-syn id="n#7559517" label="ardor.n.02" categ="love-ardor"/>
+        <noun-syn id="n#7570967" label="ardor.n.01" categ="enthusiasm-ardor"/>
+        <noun-syn id="n#7515398" label="approval.n.02" categ="approval"/>
+        <noun-syn id="n#5960433" label="apprehension.n.03" categ="apprehension"/>
+        <noun-syn id="n#7498762" label="apathy.n.01" categ="apathy"/>
+        <noun-syn id="n#7539999" label="anxiousness.n.02" categ="anxiousness"/>
+        <noun-syn id="n#7539144" label="anxiety.n.02" categ="anxiety"/>
+        <noun-syn id="n#7517908" label="antipathy.n.01" categ="antipathy"/>
+        <noun-syn id="n#14509706" label="anticipation.n.04" categ="anticipation"/>
+        <noun-syn id="n#7563832" label="antagonism.n.03" categ="antagonism"/>
+        <noun-syn id="n#7533500" label="annoyance.n.02" categ="annoyance"/>
+        <noun-syn id="n#7563566" label="animosity.n.01" categ="animosity"/>
+        <noun-syn id="n#7531593" label="anger.n.01" categ="anger"/>
+        <noun-syn id="n#7524235" label="amour_propre.n.01" categ="amour-propre"/>
+        <noun-syn id="n#7559601" label="amorousness.n.01" categ="amorousness"/>
+        <noun-syn id="n#7515069" label="amicability.n.01" categ="amicability"/>
+        <noun-syn id="n#7517626" label="alienation.n.01" categ="alienation"/>
+        <noun-syn id="n#7535012" label="alarm.n.01" categ="alarm"/>
+        <noun-syn id="n#7528747" label="agitation.n.03" categ="ambiguous-agitation"/>
+        <noun-syn id="n#7564033" label="aggression.n.02" categ="aggression"/>
+        <noun-syn id="n#7534117" label="aggravation.n.01" categ="aggravation"/>
+        <noun-syn id="n#7560035" label="affection.n.01" categ="affection"/>
+        <noun-syn id="n#7515980" label="admiration.n.01" categ="admiration"/>
+        <noun-syn id="n#7518669" label="abhorrence.n.01" categ="abhorrence"/>
+        <noun-syn id="n#7523331" label="abashment.n.01" categ="abashment"/>
+        <noun-syn id="n#7541241" label="angst.n.01" categ="angst"/>
+    </noun-syn-list>
+    <adj-syn-list>
+        <adj-syn id="a#1741490" label="impatient.a.01" noun-id="n#7529310" />
+        <adj-syn id="a#815105" label="impatient.s.02" noun-id="n#7529310" />
+        <adj-syn id="a#1630743" label="hideous.s.01" noun-id="n#7519226" />
+        <adj-syn id="a#482955" label="self-conscious.s.02" noun-id="n#7522568" />
+        <adj-syn id="a#1636357" label="self-deprecating.s.01" noun-id="n#7524713" />
+        <adj-syn id="a#155430" label="discredited.s.02" noun-id="n#7521808" />
+        <adj-syn id="a#2414601" label="cliff-hanging.s.01" noun-id="n#7537871" />
+        <adj-syn id="a#2414601" label="cliff-hanging.s.01" noun-id="n#7526477" />
+        <adj-syn id="a#1812870" label="admirable.s.02" noun-id="n#7515980" />
+        <adj-syn id="a#907512" label="admirable.s.01" noun-id="n#7515980" />
+        <adj-syn id="a#857434" label="affectional.s.01" noun-id="n#7560035" />
+        <adj-syn id="a#115077" label="aggravated.s.02" noun-id="n#7534117" />
+        <adj-syn id="a#85733" label="agitated.a.01" noun-id="n#7528747" />
+        <adj-syn id="a#79441" label="alarmed.s.01" noun-id="n#7535012" />
+        <adj-syn id="a#1466248" label="alienated.s.02" noun-id="n#7517626" />
+        <adj-syn id="a#1688568" label="alienated.s.01" noun-id="n#7517626" />
+        <adj-syn id="a#1249453" label="amicable.a.01" noun-id="n#7515069" />
+        <adj-syn id="a#1468104" label="amatory.s.01" noun-id="n#7559601" />
+        <adj-syn id="a#1467951" label="amative.s.01" noun-id="n#7559601" />
+        <adj-syn id="a#114629" label="angry.a.01" noun-id="n#7531593" />
+        <adj-syn id="a#115265" label="angered.s.01" noun-id="n#7531593" />
+        <adj-syn id="a#90253" label="annoying.s.01" noun-id="n#7533500" />
+        <adj-syn id="a#2464897" label="annoyed.s.02" noun-id="n#7533500" />
+        <adj-syn id="a#1811355" label="annoyed.s.01" noun-id="n#7533500" />
+        <adj-syn id="a#1296519" label="afraid.s.04" noun-id="n#7517908" />
+        <adj-syn id="a#2465209" label="anxious.s.02" noun-id="n#7539144" />
+        <adj-syn id="a#814817" label="anxious.s.01" noun-id="n#7539144" />
+        <adj-syn id="a#2465209" label="anxious.s.02" noun-id="n#7539999" />
+        <adj-syn id="a#814817" label="anxious.s.01" noun-id="n#7539999" />
+        <adj-syn id="a#2289345" label="apathetic.s.01" noun-id="n#7498762" />
+        <adj-syn id="a#79659" label="apprehensive.s.03" noun-id="n#5960433" />
+        <adj-syn id="a#814817" label="anxious.s.01" noun-id="n#5960433" />
+        <adj-syn id="a#999508" label="approving.s.01" noun-id="n#7515398" />
+        <adj-syn id="a#180335" label="approved.s.01" noun-id="n#7515398" />
+        <adj-syn id="a#1286247" label="astonishing.s.02" noun-id="n#7524811" />
+        <adj-syn id="a#2368344" label="amazing.s.01" noun-id="n#7524811" />
+        <adj-syn id="a#2366366" label="amazed.s.01" noun-id="n#7524811" />
+        <adj-syn id="a#1747755" label="contrite.s.01" noun-id="n#7550088" />
+        <adj-syn id="a#2021929" label="awed.a.02" noun-id="n#7525423" />
+        <adj-syn id="a#2019253" label="awed.s.01" noun-id="n#7525423" />
+        <adj-syn id="a#82711" label="aggressive.a.01" noun-id="n#7564161" />
+        <adj-syn id="a#225394" label="beneficent.a.01" noun-id="n#7561203" />
+        <adj-syn id="a#209644" label="beneficed.a.01" noun-id="n#7561203" />
+        <adj-syn id="a#225623" label="benefic.s.01" noun-id="n#7561203" />
+        <adj-syn id="a#2672151" label="benevolent.a.01" noun-id="n#7561087" />
+        <adj-syn id="a#292337" label="brotherly.a.01" noun-id="n#7515281" />
+        <adj-syn id="a#198743" label="assuasive.s.01" noun-id="n#7530207" />
+        <adj-syn id="a#303560" label="calm.a.02" noun-id="n#7530207" />
+        <adj-syn id="a#868825" label="beguiled.s.01" noun-id="n#7513215" />
+        <adj-syn id="a#1468473" label="captivated.s.01" noun-id="n#7513215" />
+        <adj-syn id="a#168015" label="bewitching.s.01" noun-id="n#7513215" />
+        <adj-syn id="a#2468693" label="carefree.s.01" noun-id="n#7546254" />
+        <adj-syn id="a#363547" label="cheerful.a.01" noun-id="n#7545866" />
+        <adj-syn id="a#363547" label="cheerful.a.01" noun-id="n#7545866" />
+        <adj-syn id="a#196525" label="chilling.s.01" noun-id="n#7552647" />
+        <adj-syn id="a#453543" label="close.a.02" noun-id="n#7545512" />
+        <adj-syn id="a#481320" label="comfortable.a.02" noun-id="n#14468845" />
+        <adj-syn id="a#508211" label="compassionate.a.01" noun-id="n#7569189" />
+        <adj-syn id="a#509376" label="compatible.a.01" noun-id="n#7570323" />
+        <adj-syn id="a#591760" label="complacent.s.01" noun-id="n#7547101" />
+        <adj-syn id="a#545823" label="concerned.a.01" noun-id="n#7539768" />
+        <adj-syn id="a#338070" label="convinced.s.01" noun-id="n#7541744" />
+        <adj-syn id="a#1690366" label="confusing.s.01" noun-id="n#7523151" />
+        <adj-syn id="a#1673499" label="broken.s.08" noun-id="n#7523151" />
+        <adj-syn id="a#591490" label="contented.a.01" noun-id="n#7546493" />
+        <adj-syn id="a#890609" label="cold.s.10" noun-id="n#7530567" />
+        <adj-syn id="a#532977" label="cool.s.02" noun-id="n#7530567" />
+        <adj-syn id="a#2542621" label="cool.a.03" noun-id="n#7530567" />
+        <adj-syn id="a#2540350" label="cool.a.01" noun-id="n#7530567" />
+        <adj-syn id="a#30046" label="avaricious.s.01" noun-id="n#7565445" />
+        <adj-syn id="a#892058" label="covetous.s.01" noun-id="n#7565445" />
+        <adj-syn id="a#1266123" label="barbarous.s.01" noun-id="n#7521621" />
+        <adj-syn id="a#2472810" label="cynical.s.01" noun-id="n#7558592" />
+        <adj-syn id="a#1286879" label="dazzling.s.01" noun-id="n#5692366" />
+        <adj-syn id="a#438360" label="dazed.s.01" noun-id="n#5692366" />
+        <adj-syn id="a#698057" label="defeated.a.01" noun-id="n#7557948" />
+        <adj-syn id="a#870923" label="demoralizing.s.01" noun-id="n#7553361" />
+        <adj-syn id="a#1669359" label="demoralized.s.01" noun-id="n#7553361" />
+        <adj-syn id="a#707060" label="gloomy.s.02" noun-id="n#7552873" />
+        <adj-syn id="a#365559" label="depressing.a.01" noun-id="n#7552873" />
+        <adj-syn id="a#1232699" label="despairing.s.01" noun-id="n#7557311" />
+        <adj-syn id="a#1233026" label="despondent.s.01" noun-id="n#7553783" />
+        <adj-syn id="a#521593" label="devoted.s.01" noun-id="n#7559879" />
+        <adj-syn id="a#340839" label="diffident.a.02" noun-id="n#7538525" />
+        <adj-syn id="a#1775905" label="discouraging.s.02" noun-id="n#7518068" />
+        <adj-syn id="a#1000717" label="disapproving.s.01" noun-id="n#7518068" />
+        <adj-syn id="a#2341968" label="defeated.s.02" noun-id="n#7523471" />
+        <adj-syn id="a#870521" label="discouraging.a.01" noun-id="n#7558063" />
+        <adj-syn id="a#1770645" label="baffled.s.01" noun-id="n#7558063" />
+        <adj-syn id="a#1669359" label="demoralized.s.01" noun-id="n#7558063" />
+        <adj-syn id="a#1630074" label="disgusting.s.01" noun-id="n#7518499" />
+        <adj-syn id="a#1811926" label="disgusted.s.01" noun-id="n#7518499" />
+        <adj-syn id="a#1296281" label="disinclined.a.01" noun-id="n#7517161" />
+        <adj-syn id="a#1464519" label="dislikable.s.01" noun-id="n#7516784" />
+        <adj-syn id="a#1814087" label="displeasing.a.01" noun-id="n#7555812" />
+        <adj-syn id="a#1811138" label="displeased.a.01" noun-id="n#7555812" />
+        <adj-syn id="a#546451" label="afraid.s.03" noun-id="n#7511603" />
+        <adj-syn id="a#1192929" label="distressing.s.01" noun-id="n#7511603" />
+        <adj-syn id="a#2466219" label="disquieted.s.01" noun-id="n#7511603" />
+        <adj-syn id="a#912446" label="dysphoric.a.01" noun-id="n#7511603" />
+        <adj-syn id="a#1365303" label="doleful.s.01" noun-id="n#7548220" />
+        <adj-syn id="a#1365303" label="doleful.s.01" noun-id="n#7548220" />
+        <adj-syn id="a#707060" label="gloomy.s.02" noun-id="n#7553056" />
+        <adj-syn id="a#912446" label="dysphoric.a.01" noun-id="n#7554755" />
+        <adj-syn id="a#889495" label="avid.s.02" noun-id="n#7570749" />
+        <adj-syn id="a#1465246" label="beloved.s.01" noun-id="n#7527554" />
+        <adj-syn id="a#825684" label="easy.a.03" noun-id="n#7531213" />
+        <adj-syn id="a#2415166" label="edgy.s.01" noun-id="n#7540296" />
+        <adj-syn id="a#1370127" label="elated.s.02" noun-id="n#7543044" />
+        <adj-syn id="a#708053" label="elated.a.01" noun-id="n#7543044" />
+        <adj-syn id="a#924779" label="elating.s.01" noun-id="n#7543044" />
+        <adj-syn id="a#925107" label="electrifying.s.01" noun-id="n#7529839" />
+        <adj-syn id="a#749659" label="awkward.s.05" noun-id="n#7522337" />
+        <adj-syn id="a#1808452" label="embarrassing.s.02" noun-id="n#7522337" />
+        <adj-syn id="a#533833" label="abashed.s.01" noun-id="n#7522337" />
+        <adj-syn id="a#2341968" label="defeated.s.02" noun-id="n#7522337" />
+        <adj-syn id="a#1261062" label="emotionless.s.01" noun-id="n#7498922" />
+        <adj-syn id="a#2384207" label="empathic.s.01" noun-id="n#7570421" />
+        <adj-syn id="a#869779" label="encouraging.a.01" noun-id="n#7556837" />
+        <adj-syn id="a#1810738" label="bucked_up.s.01" noun-id="n#7556837" />
+        <adj-syn id="a#924255" label="exciting.a.01" noun-id="n#7570579" />
+        <adj-syn id="a#888937" label="enthusiastic.a.01" noun-id="n#7570579" />
+        <adj-syn id="a#737084" label="enviable.s.01" noun-id="n#7565182" />
+        <adj-syn id="a#892058" label="covetous.s.01" noun-id="n#7565182" />
+        <adj-syn id="a#912201" label="euphoriant.s.01" noun-id="n#7544484" />
+        <adj-syn id="a#912012" label="euphoric.a.01" noun-id="n#7544484" />
+        <adj-syn id="a#708780" label="gladdened.s.01" noun-id="n#7543600" />
+        <adj-syn id="a#1360190" label="exhilarating.s.01" noun-id="n#7543600" />
+        <adj-syn id="a#1231670" label="anticipant.s.01" noun-id="n#7526162" />
+        <adj-syn id="a#708342" label="exultant.s.01" noun-id="n#7543205" />
+        <adj-syn id="a#999158" label="favorable.a.01" noun-id="n#7515653" />
+        <adj-syn id="a#195400" label="awful.s.02" noun-id="n#7534492" />
+        <adj-syn id="a#265642" label="cowardly.a.01" noun-id="n#7534492" />
+        <adj-syn id="a#195400" label="awful.s.02" noun-id="n#7534492" />
+        <adj-syn id="a#78253" label="afraid.a.01" noun-id="n#7534492" />
+        <adj-syn id="a#82141" label="unafraid.a.01" noun-id="n#7541421" />
+        <adj-syn id="a#86895" label="feverish.s.01" noun-id="n#7526619" />
+        <adj-syn id="a#923395" label="fevered.s.01" noun-id="n#7526619" />
+        <adj-syn id="a#2414962" label="antsy.s.01" noun-id="n#7529034" />
+        <adj-syn id="a#1467633" label="affectionate.s.01" noun-id="n#7512937" />
+        <adj-syn id="a#1725432" label="excusable.s.02" noun-id="n#7570205" />
+        <adj-syn id="a#1233260" label="forlorn.s.01" noun-id="n#7549496" />
+        <adj-syn id="a#1245624" label="bare.s.08" noun-id="n#7549496" />
+        <adj-syn id="a#1078338" label="friendly.a.01" noun-id="n#7514854" />
+        <adj-syn id="a#871066" label="frustrating.s.01" noun-id="n#7533902" />
+        <adj-syn id="a#1770645" label="baffled.s.01" noun-id="n#7533902" />
+        <adj-syn id="a#1814530" label="exasperating.s.01" noun-id="n#7532236" />
+        <adj-syn id="a#115265" label="angered.s.01" noun-id="n#7532236" />
+        <adj-syn id="a#1370567" label="gay.s.02" noun-id="n#7544633" />
+        <adj-syn id="a#365018" label="cheery.s.01" noun-id="n#7544633" />
+        <adj-syn id="a#1370567" label="gay.s.02" noun-id="n#7527278" />
+        <adj-syn id="a#365018" label="cheery.s.01" noun-id="n#7527278" />
+        <adj-syn id="a#1364621" label="gladsome.s.01" noun-id="n#7542406" />
+        <adj-syn id="a#363972" label="beaming.s.01" noun-id="n#7542406" />
+        <adj-syn id="a#363972" label="beaming.s.01" noun-id="n#7542406" />
+        <adj-syn id="a#1150423" label="glad.s.03" noun-id="n#7542406" />
+        <adj-syn id="a#1364330" label="glad.a.01" noun-id="n#7542406" />
+        <adj-syn id="a#1364330" label="glad.a.01" noun-id="n#7542406" />
+        <adj-syn id="a#371931" label="blue.s.01" noun-id="n#7548645" />
+        <adj-syn id="a#707714" label="glum.s.01" noun-id="n#7548645" />
+        <adj-syn id="a#365559" label="depressing.a.01" noun-id="n#7548645" />
+        <adj-syn id="a#422169" label="begrimed.s.01" noun-id="n#7548645" />
+        <adj-syn id="a#276630" label="glooming.s.01" noun-id="n#7548645" />
+        <adj-syn id="a#1149996" label="grateful.a.01" noun-id="n#7519768" />
+        <adj-syn id="a#1149996" label="grateful.a.01" noun-id="n#7519582" />
+        <adj-syn id="a#1368460" label="grievous.s.02" noun-id="n#7550398" />
+        <adj-syn id="a#1368460" label="grievous.s.02" noun-id="n#7550398" />
+        <adj-syn id="a#1367733" label="bereaved.s.01" noun-id="n#7550398" />
+        <adj-syn id="a#155850" label="guilty.s.02" noun-id="n#7551633" />
+        <adj-syn id="a#912012" label="euphoric.a.01" noun-id="n#7541996" />
+        <adj-syn id="a#1052105" label="felicitous.s.02" noun-id="n#7541996" />
+        <adj-syn id="a#1151786" label="happy.a.01" noun-id="n#7541996" />
+        <adj-syn id="a#1463343" label="hateful.a.01" noun-id="n#7561835" />
+        <adj-syn id="a#1161527" label="hardhearted.a.01" noun-id="n#7521388" />
+        <adj-syn id="a#1365514" label="heavyhearted.s.01" noun-id="n#7548880" />
+        <adj-syn id="a#1269951" label="hilarious.s.01" noun-id="n#7544765" />
+        <adj-syn id="a#1269951" label="hilarious.s.01" noun-id="n#7544765" />
+        <adj-syn id="a#1231403" label="hopeful.a.01" noun-id="n#7526972" />
+        <adj-syn id="a#1231403" label="hopeful.a.01" noun-id="n#7526972" />
+        <adj-syn id="a#1231403" label="hopeful.a.01" noun-id="n#7556441" />
+        <adj-syn id="a#1231403" label="hopeful.a.01" noun-id="n#7556704" />
+        <adj-syn id="a#1231893" label="hopeless.a.01" noun-id="n#7557637" />
+        <adj-syn id="a#195081" label="atrocious.s.03" noun-id="n#7535650" />
+        <adj-syn id="a#80376" label="horrified.s.01" noun-id="n#7535650" />
+        <adj-syn id="a#195400" label="awful.s.02" noun-id="n#7535650" />
+        <adj-syn id="a#1630743" label="hideous.s.01" noun-id="n#7535650" />
+        <adj-syn id="a#195081" label="atrocious.s.03" noun-id="n#7535650" />
+        <adj-syn id="a#1081517" label="hostile.a.02" noun-id="n#7563271" />
+        <adj-syn id="a#1247284" label="hostile.a.01" noun-id="n#7563271" />
+        <adj-syn id="a#1141494" label="huffish.s.01" noun-id="n#7533108" />
+        <adj-syn id="a#2113789" label="huffy.s.01" noun-id="n#7533108" />
+        <adj-syn id="a#756076" label="demeaning.s.01" noun-id="n#7524370" />
+        <adj-syn id="a#533833" label="abashed.s.01" noun-id="n#7524370" />
+        <adj-syn id="a#87291" label="hysterical.s.02" noun-id="n#7535746" />
+        <adj-syn id="a#1728286" label="indifferent.s.07" noun-id="n#7520915" />
+        <adj-syn id="a#1345797" label="apathetic.s.02" noun-id="n#7520915" />
+        <adj-syn id="a#116305" label="indignant.s.01" noun-id="n#7532976" />
+        <adj-syn id="a#1814530" label="exasperating.s.01" noun-id="n#7532656" />
+        <adj-syn id="a#115265" label="angered.s.01" noun-id="n#7532656" />
+        <adj-syn id="a#2100773" label="insecure.a.03" noun-id="n#7540157" />
+        <adj-syn id="a#253599" label="intimidated.s.01" noun-id="n#7538999" />
+        <adj-syn id="a#115732" label="choleric.s.03" noun-id="n#7568015" />
+        <adj-syn id="a#2117727" label="detached.s.02" noun-id="n#7517815" />
+        <adj-syn id="a#2473333" label="jealous.s.02" noun-id="n#7565545" />
+        <adj-syn id="a#892058" label="covetous.s.01" noun-id="n#7565545" />
+        <adj-syn id="a#2415166" label="edgy.s.01" noun-id="n#7540999" />
+        <adj-syn id="a#1370567" label="gay.s.02" noun-id="n#7545071" />
+        <adj-syn id="a#1370567" label="gay.s.02" noun-id="n#7567356" />
+        <adj-syn id="a#1370127" label="elated.s.02" noun-id="n#7542591" />
+        <adj-syn id="a#1370127" label="elated.s.02" noun-id="n#7542591" />
+        <adj-syn id="a#1366529" label="joyful.a.01" noun-id="n#7542591" />
+        <adj-syn id="a#1366529" label="joyful.a.01" noun-id="n#7542591" />
+        <adj-syn id="a#1371108" label="joyless.a.01" noun-id="n#7552764" />
+        <adj-syn id="a#1371108" label="joyless.a.01" noun-id="n#7552764" />
+        <adj-syn id="a#1376472" label="kindhearted.s.01" noun-id="n#7569056" />
+        <adj-syn id="a#166847" label="dreamy.s.01" noun-id="n#7531461" />
+        <adj-syn id="a#166847" label="dreamy.s.01" noun-id="n#7499249" />
+        <adj-syn id="a#1464214" label="likable.s.02" noun-id="n#7512613" />
+        <adj-syn id="a#405645" label="ashen.s.01" noun-id="n#7532531" />
+        <adj-syn id="a#1466898" label="loving.a.01" noun-id="n#7558676" />
+        <adj-syn id="a#226107" label="malefic.s.01" noun-id="n#7566017" />
+        <adj-syn id="a#227156" label="malevolent.s.01" noun-id="n#7565835" />
+        <adj-syn id="a#227156" label="malevolent.s.01" noun-id="n#7566132" />
+        <adj-syn id="a#1365600" label="melancholy.s.01" noun-id="n#7548485" />
+        <adj-syn id="a#1365600" label="melancholy.s.01" noun-id="n#7548485" />
+        <adj-syn id="a#1510813" label="merciful.a.01" noun-id="n#7570065" />
+        <adj-syn id="a#1141661" label="misanthropic.s.02" noun-id="n#7562232" />
+        <adj-syn id="a#1054589" label="hapless.s.01" noun-id="n#7549366" />
+        <adj-syn id="a#1153708" label="miserable.s.01" noun-id="n#7549366" />
+        <adj-syn id="a#2473719" label="misogynic.s.01" noun-id="n#7562452" />
+        <adj-syn id="a#1365303" label="doleful.s.01" noun-id="n#7550597" />
+        <adj-syn id="a#1365303" label="doleful.s.01" noun-id="n#7550597" />
+        <adj-syn id="a#1369073" label="mournful.s.01" noun-id="n#7550597" />
+        <adj-syn id="a#2570765" label="nauseating.s.01" noun-id="n#7519350" />
+        <adj-syn id="a#2556459" label="nauseated.s.01" noun-id="n#7519350" />
+        <adj-syn id="a#792029" label="oppressive.s.02" noun-id="n#7554062" />
+        <adj-syn id="a#873280" label="laden.s.02" noun-id="n#7554062" />
+        <adj-syn id="a#1055417" label="downtrodden.s.01" noun-id="n#7554062" />
+        <adj-syn id="a#1668036" label="optimistic.a.01" noun-id="n#7556946" />
+        <adj-syn id="a#80947" label="panicky.s.01" noun-id="n#7535851" />
+        <adj-syn id="a#1746368" label="peaceable.s.01" noun-id="n#7531029" />
+        <adj-syn id="a#1365866" label="pensive.s.02" noun-id="n#7548995" />
+        <adj-syn id="a#2428209" label="brooding.s.01" noun-id="n#7548995" />
+        <adj-syn id="a#1669060" label="pessimistic.a.01" noun-id="n#7558421" />
+        <adj-syn id="a#303750" label="placid.s.01" noun-id="n#7530408" />
+        <adj-syn id="a#1369073" label="mournful.s.01" noun-id="n#7550818" />
+        <adj-syn id="a#708342" label="exultant.s.01" noun-id="n#7523725" />
+        <adj-syn id="a#1895355" label="proud.a.01" noun-id="n#7523725" />
+        <adj-syn id="a#708342" label="exultant.s.01" noun-id="n#7546924" />
+        <adj-syn id="a#508513" label="caring.s.01" noun-id="n#7560673" />
+        <adj-syn id="a#708342" label="exultant.s.01" noun-id="n#7544951" />
+        <adj-syn id="a#1747466" label="penitent.a.01" noun-id="n#7552258" />
+        <adj-syn id="a#223526" label="hideous.s.02" noun-id="n#7519226" />
+        <adj-syn id="a#1629244" label="abhorrent.s.01" noun-id="n#7519226" />
+        <adj-syn id="a#117340" label="resentful.a.01" noun-id="n#7564444" />
+        <adj-syn id="a#1232308" label="abject.s.03" noun-id="n#7557821" />
+        <adj-syn id="a#1232308" label="abject.s.03" noun-id="n#7557821" />
+        <adj-syn id="a#2018906" label="reverent.a.01" noun-id="n#7536278" />
+        <adj-syn id="a#1369193" label="sad.s.02" noun-id="n#7547828" />
+        <adj-syn id="a#1152997" label="unhappy.a.01" noun-id="n#7547828" />
+        <adj-syn id="a#1152997" label="unhappy.a.01" noun-id="n#7547828" />
+        <adj-syn id="a#1364779" label="sad.a.01" noun-id="n#7547828" />
+        <adj-syn id="a#1364779" label="sad.a.01" noun-id="n#7547828" />
+        <adj-syn id="a#1668920" label="sanguine.s.01" noun-id="n#7557148" />
+        <adj-syn id="a#2088709" label="comforting.s.01" noun-id="n#7546643" />
+        <adj-syn id="a#1381355" label="appreciated.s.01" noun-id="n#7546643" />
+        <adj-syn id="a#592037" label="satisfied.s.01" noun-id="n#7546643" />
+        <adj-syn id="a#2085394" label="satiable.s.01" noun-id="n#7546643" />
+        <adj-syn id="a#2087716" label="satisfactory.a.01" noun-id="n#7546643" />
+        <adj-syn id="a#196525" label="chilling.s.01" noun-id="n#7536676" />
+        <adj-syn id="a#80219" label="frightened.s.01" noun-id="n#7536676" />
+        <adj-syn id="a#198526" label="reassuring.a.01" noun-id="n#7541577" />
+        <adj-syn id="a#340497" label="reassured.s.01" noun-id="n#7541577" />
+        <adj-syn id="a#2109222" label="scandalmongering.s.01" noun-id="n#14060962" />
+        <adj-syn id="a#2108860" label="sensational.a.01" noun-id="n#14060962" />
+        <adj-syn id="a#1554321" label="disgraceful.s.01" noun-id="n#7521808" />
+        <adj-syn id="a#1230419" label="black.s.12" noun-id="n#7521808" />
+        <adj-syn id="a#156104" label="shamefaced.s.02" noun-id="n#7521808" />
+        <adj-syn id="a#155850" label="guilty.s.02" noun-id="n#7521808" />
+        <adj-syn id="a#155165" label="ashamed.a.01" noun-id="n#7521808" />
+        <adj-syn id="a#155850" label="guilty.s.02" noun-id="n#7522799" />
+        <adj-syn id="a#156104" label="shamefaced.s.02" noun-id="n#7522799" />
+        <adj-syn id="a#340839" label="diffident.a.02" noun-id="n#7538419" />
+        <adj-syn id="a#1994938" label="diffident.s.01" noun-id="n#7538419" />
+        <adj-syn id="a#592141" label="smug.s.01" noun-id="n#7547386" />
+        <adj-syn id="a#1161960" label="softhearted.a.01" noun-id="n#7520586" />
+        <adj-syn id="a#547080" label="solicitous.s.01" noun-id="n#7520446" />
+        <adj-syn id="a#1367733" label="bereaved.s.01" noun-id="n#7549818" />
+        <adj-syn id="a#1366924" label="sorrowful.a.01" noun-id="n#7549818" />
+        <adj-syn id="a#1129296" label="bad.a.01" noun-id="n#7549818" />
+        <adj-syn id="a#1153978" label="regretful.a.01" noun-id="n#7551058" />
+        <adj-syn id="a#1286247" label="astonishing.s.02" noun-id="n#7525734" />
+        <adj-syn id="a#197904" label="stupefying.s.03" noun-id="n#7525734" />
+        <adj-syn id="a#438360" label="dazed.s.01" noun-id="n#7525734" />
+        <adj-syn id="a#2366833" label="dumbfounded.s.01" noun-id="n#7525734" />
+        <adj-syn id="a#1141494" label="huffish.s.01" noun-id="n#7564867" />
+        <adj-syn id="a#2368019" label="surprising.a.01" noun-id="n#7525587" />
+        <adj-syn id="a#2366035" label="surprised.a.01" noun-id="n#7525587" />
+        <adj-syn id="a#2702127" label="charitable.a.01" noun-id="n#7568767" />
+        <adj-syn id="a#2383482" label="sympathetic.a.02" noun-id="n#7568767" />
+        <adj-syn id="a#1467633" label="affectionate.s.01" noun-id="n#7569907" />
+        <adj-syn id="a#2457962" label="tender.a.01" noun-id="n#7569907" />
+        <adj-syn id="a#1994938" label="diffident.s.01" noun-id="n#7537968" />
+        <adj-syn id="a#252675" label="timid.a.01" noun-id="n#7537968" />
+        <adj-syn id="a#925585" label="titillating.s.01" noun-id="n#7544364" />
+        <adj-syn id="a#923844" label="teased.s.01" noun-id="n#7544364" />
+        <adj-syn id="a#531862" label="calm.s.01" noun-id="n#7530799" />
+        <adj-syn id="a#80075" label="fearful.s.01" noun-id="n#7537282" />
+        <adj-syn id="a#708342" label="exultant.s.01" noun-id="n#7543485" />
+        <adj-syn id="a#116305" label="indignant.s.01" noun-id="n#7532789" />
+        <adj-syn id="a#158105" label="unassertive.a.01" noun-id="n#7538888" />
+        <adj-syn id="a#547235" label="unconcerned.a.01" noun-id="n#7520777" />
+        <adj-syn id="a#1081866" label="unfriendly.a.01" noun-id="n#7517480" />
+        <adj-syn id="a#1080481" label="unfriendly.a.02" noun-id="n#7517480" />
+        <adj-syn id="a#226691" label="despiteful.s.01" noun-id="n#7566357" />
+        <adj-syn id="a#2543785" label="warmhearted.a.01" noun-id="n#7561649" />
+        <adj-syn id="a#1368155" label="dolorous.s.01" noun-id="n#7549666" />
+        <adj-syn id="a#2355625" label="deplorable.s.02" noun-id="n#7549265" />
+        <adj-syn id="a#1369441" label="woebegone.s.02" noun-id="n#7549265" />
+        <adj-syn id="a#970835" label="antic.s.01" noun-id="n#7525235" />
+        <adj-syn id="a#2441494" label="bored.s.01" noun-id="n#7549123" />
+        <adj-syn id="a#2019169" label="adoring.s.01" noun-id="n#7516659" />
+        <adj-syn id="a#117056" label="wrathful.s.01" noun-id="n#7532144" />
+    </adj-syn-list>
+    <verb-syn-list>
+        <verb-syn id="v#1778347" label="abhor.v.01" noun-id="n#7518669" />
+        <verb-syn id="v#1831800" label="admire.v.01" noun-id="n#7515980" />
+        <verb-syn id="v#1771801" label="affect.v.05" noun-id="n#7560035" />
+        <verb-syn id="v#1824839" label="exacerbate.v.02" noun-id="n#7534117" />
+        <verb-syn id="v#2591135" label="agitate.v.01" noun-id="n#7528747" />
+        <verb-syn id="v#1786469" label="dismay.v.02" noun-id="n#7535012" />
+        <verb-syn id="v#1577754" label="lower.v.04" noun-id="n#7535012" />
+        <verb-syn id="v#2603243" label="estrange.v.01" noun-id="n#7517626" />
+        <verb-syn id="v#1790925" label="anger.v.02" noun-id="n#7531593" />
+        <verb-syn id="v#1789790" label="anger.v.01" noun-id="n#7531593" />
+        <verb-syn id="v#1791774" label="annoy.v.01" noun-id="n#7533500" />
+        <verb-syn id="v#1808928" label="anticipate.v.05" noun-id="n#14509706" />
+        <verb-syn id="v#675902" label="approve.v.02" noun-id="n#7515398" />
+        <verb-syn id="v#726794" label="amaze.v.01" noun-id="n#7524811" />
+        <verb-syn id="v#1800593" label="repent.v.02" noun-id="n#7550088" />
+        <verb-syn id="v#1783561" label="awe.v.01" noun-id="n#7525423" />
+        <verb-syn id="v#417496" label="steady.v.01" noun-id="n#7530207" />
+        <verb-syn id="v#1810472" label="capture.v.02" noun-id="n#7513215" />
+        <verb-syn id="v#1803805" label="humiliate.v.01" noun-id="n#7522981" />
+        <verb-syn id="v#860463" label="cheer.v.05" noun-id="n#7545866" />
+        <verb-syn id="v#860250" label="cheer.v.02" noun-id="n#7545866" />
+        <verb-syn id="v#1821905" label="cheer.v.01" noun-id="n#7545866" />
+        <verb-syn id="v#860817" label="cheer.v.04" noun-id="n#7545866" />
+        <verb-syn id="v#860989" label="cheer.v.03" noun-id="n#7545866" />
+        <verb-syn id="v#1822939" label="chill.v.01" noun-id="n#7552647" />
+        <verb-syn id="v#1818782" label="comfort.v.01" noun-id="n#14468845" />
+        <verb-syn id="v#1826198" label="commiserate.v.01" noun-id="n#7569430" />
+        <verb-syn id="v#1825946" label="feel_for.v.01" noun-id="n#7569189" />
+        <verb-syn id="v#2684248" label="concern.v.02" noun-id="n#7539768" />
+        <verb-syn id="v#2684248" label="concern.v.02" noun-id="n#7520080" />
+        <verb-syn id="v#1794768" label="confuse.v.03" noun-id="n#7523151" />
+        <verb-syn id="v#1778720" label="contemn.v.01" noun-id="n#7518219" />
+        <verb-syn id="v#1196771" label="content.v.01" noun-id="n#7546493" />
+        <verb-syn id="v#1820811" label="content.v.02" noun-id="n#7546493" />
+        <verb-syn id="v#371065" label="cool.v.01" noun-id="n#7530567" />
+        <verb-syn id="v#371065" label="cool.v.01" noun-id="n#7530567" />
+        <verb-syn id="v#1831174" label="covet.v.01" noun-id="n#7565445" />
+        <verb-syn id="v#2067699" label="fawn.v.01" noun-id="n#7535222" />
+        <verb-syn id="v#1412733" label="sandbag.v.03" noun-id="n#5692366" />
+        <verb-syn id="v#1110559" label="get_the_better_of.v.01" noun-id="n#7557948" />
+        <verb-syn id="v#1818363" label="depress.v.01" noun-id="n#7553361" />
+        <verb-syn id="v#1818363" label="depress.v.01" noun-id="n#7552873" />
+        <verb-syn id="v#1814900" label="despair.v.01" noun-id="n#7557311" />
+        <verb-syn id="v#1778720" label="contemn.v.01" noun-id="n#7563140" />
+        <verb-syn id="v#676259" label="disapprove.v.01" noun-id="n#7518068" />
+        <verb-syn id="v#1793821" label="upset.v.02" noun-id="n#7523471" />
+        <verb-syn id="v#1823114" label="discourage.v.02" noun-id="n#7558063" />
+        <verb-syn id="v#1812341" label="disgust.v.02" noun-id="n#7518499" />
+        <verb-syn id="v#2199359" label="disgust.v.01" noun-id="n#7518499" />
+        <verb-syn id="v#683044" label="indispose.v.01" noun-id="n#7517161" />
+        <verb-syn id="v#1780648" label="dislike.v.01" noun-id="n#7516784" />
+        <verb-syn id="v#1821097" label="displease.v.01" noun-id="n#7555812" />
+        <verb-syn id="v#2688950" label="distance.v.01" noun-id="n#7521110" />
+        <verb-syn id="v#706015" label="brood.v.01" noun-id="n#7511603" />
+        <verb-syn id="v#1771015" label="worry.v.01" noun-id="n#7511603" />
+        <verb-syn id="v#1802111" label="distress.v.02" noun-id="n#7511603" />
+        <verb-syn id="v#1768652" label="calm.v.01" noun-id="n#7531213" />
+        <verb-syn id="v#1815703" label="elate.v.01" noun-id="n#7543044" />
+        <verb-syn id="v#1815703" label="elate.v.01" noun-id="n#7543044" />
+        <verb-syn id="v#1796126" label="embarrass.v.01" noun-id="n#7522337" />
+        <verb-syn id="v#1822202" label="encourage.v.02" noun-id="n#7556837" />
+        <verb-syn id="v#1831006" label="envy.v.02" noun-id="n#7565182" />
+        <verb-syn id="v#1831561" label="envy.v.01" noun-id="n#7565182" />
+        <verb-syn id="v#1816291" label="exhilarate.v.01" noun-id="n#7543600" />
+        <verb-syn id="v#721658" label="expect.v.01" noun-id="n#7526162" />
+        <verb-syn id="v#859605" label="exuberate.v.01" noun-id="n#7543205" />
+        <verb-syn id="v#1817635" label="exult.v.01" noun-id="n#7543205" />
+        <verb-syn id="v#693909" label="favor.v.02" noun-id="n#7515653" />
+        <verb-syn id="v#1784253" label="fear.v.04" noun-id="n#7534492" />
+        <verb-syn id="v#1784253" label="fear.v.04" noun-id="n#7534492" />
+        <verb-syn id="v#1784021" label="fear.v.02" noun-id="n#7534492" />
+        <verb-syn id="v#1784548" label="fear.v.01" noun-id="n#7534492" />
+        <verb-syn id="v#905339" label="forgive.v.01" noun-id="n#7570205" />
+        <verb-syn id="v#1806967" label="torment.v.02" noun-id="n#7533902" />
+        <verb-syn id="v#1185870" label="fit.v.08" noun-id="n#7547500" />
+        <verb-syn id="v#2573980" label="desecrate.v.01" noun-id="n#7532236" />
+        <verb-syn id="v#1816917" label="gladden.v.02" noun-id="n#7542406" />
+        <verb-syn id="v#1817466" label="gladden.v.01" noun-id="n#7542406" />
+        <verb-syn id="v#1801593" label="grieve.v.02" noun-id="n#7550398" />
+        <verb-syn id="v#1801358" label="grieve.v.01" noun-id="n#7550398" />
+        <verb-syn id="v#1777926" label="stew.v.02" noun-id="n#7565002" />
+        <verb-syn id="v#2591574" label="persecute.v.01" noun-id="n#7534279" />
+        <verb-syn id="v#1778057" label="hate.v.01" noun-id="n#7561835" />
+        <verb-syn id="v#1830665" label="hope.v.01" noun-id="n#7526972" />
+        <verb-syn id="v#1815408" label="hope.v.02" noun-id="n#7556441" />
+        <verb-syn id="v#1815408" label="hope.v.02" noun-id="n#7556704" />
+        <verb-syn id="v#1818363" label="depress.v.01" noun-id="n#7535650" />
+        <verb-syn id="v#1577754" label="lower.v.04" noun-id="n#7535650" />
+        <verb-syn id="v#1803805" label="humiliate.v.01" noun-id="n#7524370" />
+        <verb-syn id="v#693710" label="identify.v.03" noun-id="n#5770995" />
+        <verb-syn id="v#2573980" label="desecrate.v.01" noun-id="n#7532656" />
+        <verb-syn id="v#1784999" label="intimidate.v.01" noun-id="n#7538999" />
+        <verb-syn id="v#856977" label="kid.v.02" noun-id="n#7567356" />
+        <verb-syn id="v#1817466" label="gladden.v.01" noun-id="n#7542591" />
+        <verb-syn id="v#1817851" label="rejoice.v.01" noun-id="n#7542591" />
+        <verb-syn id="v#1781131" label="like.v.02" noun-id="n#7512613" />
+        <verb-syn id="v#1780873" label="like.v.03" noun-id="n#7512613" />
+        <verb-syn id="v#1779456" label="love.v.03" noun-id="n#7558676" />
+        <verb-syn id="v#1832678" label="love.v.02" noun-id="n#7558676" />
+        <verb-syn id="v#1779085" label="love.v.01" noun-id="n#7558676" />
+        <verb-syn id="v#2199359" label="disgust.v.01" noun-id="n#7519350" />
+        <verb-syn id="v#1812341" label="disgust.v.02" noun-id="n#7519350" />
+        <verb-syn id="v#2591574" label="persecute.v.01" noun-id="n#7554062" />
+        <verb-syn id="v#1785802" label="panic.v.02" noun-id="n#7535851" />
+        <verb-syn id="v#1786037" label="panic.v.01" noun-id="n#7535851" />
+        <verb-syn id="v#1793089" label="pique.v.01" noun-id="n#7533707" />
+        <verb-syn id="v#1776419" label="pride.v.01" noun-id="n#7523725" />
+        <verb-syn id="v#885368" label="preen.v.02" noun-id="n#7546924" />
+        <verb-syn id="v#1193481" label="delight.v.02" noun-id="n#7544951" />
+        <verb-syn id="v#859605" label="exuberate.v.01" noun-id="n#7544951" />
+        <verb-syn id="v#1817851" label="rejoice.v.01" noun-id="n#7544951" />
+        <verb-syn id="v#1800593" label="repent.v.02" noun-id="n#7552258" />
+        <verb-syn id="v#2199359" label="disgust.v.01" noun-id="n#7519226" />
+        <verb-syn id="v#1812736" label="repel.v.02" noun-id="n#7519226" />
+        <verb-syn id="v#2387509" label="leave_office.v.01" noun-id="n#7557821" />
+        <verb-syn id="v#1781934" label="idolize.v.01" noun-id="n#7536278" />
+        <verb-syn id="v#1782485" label="reverence.v.01" noun-id="n#7536278" />
+        <verb-syn id="v#1817020" label="sadden.v.01" noun-id="n#7547828" />
+        <verb-syn id="v#1820398" label="satisfy.v.02" noun-id="n#7546643" />
+        <verb-syn id="v#1789567" label="daunt.v.01" noun-id="n#7536676" />
+        <verb-syn id="v#1783082" label="frighten.v.01" noun-id="n#7536676" />
+        <verb-syn id="v#1770259" label="reassure.v.01" noun-id="n#7541577" />
+        <verb-syn id="v#1021817" label="reassure.v.02" noun-id="n#7541577" />
+        <verb-syn id="v#1796316" label="shame.v.03" noun-id="n#7521808" />
+        <verb-syn id="v#2513727" label="shame.v.02" noun-id="n#7521808" />
+        <verb-syn id="v#1801358" label="grieve.v.01" noun-id="n#7549818" />
+        <verb-syn id="v#1801358" label="grieve.v.01" noun-id="n#7551058" />
+        <verb-syn id="v#1774723" label="touch.v.03" noun-id="n#7529584" />
+        <verb-syn id="v#772482" label="induce.v.02" noun-id="n#7529584" />
+        <verb-syn id="v#852919" label="incite.v.02" noun-id="n#7529584" />
+        <verb-syn id="v#63495" label="inflame.v.01" noun-id="n#7529584" />
+        <verb-syn id="v#269854" label="stun.v.01" noun-id="n#7525734" />
+        <verb-syn id="v#624056" label="perplex.v.01" noun-id="n#7525734" />
+        <verb-syn id="v#2120101" label="besot.v.01" noun-id="n#7525734" />
+        <verb-syn id="v#2724891" label="sulk.v.01" noun-id="n#7564867" />
+        <verb-syn id="v#727236" label="surprise.v.01" noun-id="n#7525587" />
+        <verb-syn id="v#2124605" label="tickle.v.01" noun-id="n#7544364" />
+        <verb-syn id="v#859605" label="exuberate.v.01" noun-id="n#7543485" />
+        <verb-syn id="v#1193481" label="delight.v.02" noun-id="n#7543485" />
+        <verb-syn id="v#927461" label="wonder.v.03" noun-id="n#7525235" />
+    </verb-syn-list>
+    <adv-syn-list>
+        <adv-syn id="r#220366" label="admirably.r.01" noun-id="n#7515980" />
+        <adv-syn id="r#263983" label="amicably.r.01" noun-id="n#7515069" />
+        <adv-syn id="r#228939" label="angrily.r.01" noun-id="n#7531593" />
+        <adv-syn id="r#187482" label="anxiously.r.01" noun-id="n#7539144" />
+        <adv-syn id="r#187482" label="anxiously.r.01" noun-id="n#7539999" />
+        <adv-syn id="r#267091" label="apathetically.r.01" noun-id="n#7498762" />
+        <adv-syn id="r#187482" label="anxiously.r.01" noun-id="n#5960433" />
+        <adv-syn id="r#219478" label="ruefully.r.01" noun-id="n#7550088" />
+        <adv-syn id="r#243937" label="belligerently.r.01" noun-id="n#7564161" />
+        <adv-syn id="r#279796" label="beneficially.r.01" noun-id="n#7561203" />
+        <adv-syn id="r#396497" label="benevolently.r.01" noun-id="n#7561087" />
+        <adv-syn id="r#188268" label="calmly.r.01" noun-id="n#7530207" />
+        <adv-syn id="r#232365" label="cheerfully.r.01" noun-id="n#7545866" />
+        <adv-syn id="r#232365" label="cheerfully.r.01" noun-id="n#7545866" />
+        <adv-syn id="r#232493" label="cheerlessly.r.01" noun-id="n#7552456" />
+        <adv-syn id="r#232493" label="cheerlessly.r.01" noun-id="n#7552456" />
+        <adv-syn id="r#411619" label="near.r.01" noun-id="n#7545512" />
+        <adv-syn id="r#156018" label="comfortably.r.01" noun-id="n#14468845" />
+        <adv-syn id="r#289064" label="compatibly.r.01" noun-id="n#7570323" />
+        <adv-syn id="r#295603" label="confusedly.r.01" noun-id="n#7523151" />
+        <adv-syn id="r#304549" label="enviously.r.01" noun-id="n#7565445" />
+        <adv-syn id="r#234156" label="cruelly.r.01" noun-id="n#7521621" />
+        <adv-syn id="r#82389" label="dazzlingly.r.01" noun-id="n#5692366" />
+        <adv-syn id="r#303212" label="despairingly.r.01" noun-id="n#7557311" />
+        <adv-syn id="r#303212" label="despairingly.r.01" noun-id="n#7553783" />
+        <adv-syn id="r#310504" label="diffidently.r.01" noun-id="n#7538525" />
+        <adv-syn id="r#315374" label="disgustedly.r.01" noun-id="n#7518499" />
+        <adv-syn id="r#315534" label="disgustingly.r.01" noun-id="n#7518499" />
+        <adv-syn id="r#319394" label="displeasingly.r.01" noun-id="n#7555812" />
+        <adv-syn id="r#499077" label="worryingly.r.01" noun-id="n#7511603" />
+        <adv-syn id="r#115516" label="painfully.r.01" noun-id="n#7511603" />
+        <adv-syn id="r#321324" label="distressfully.r.01" noun-id="n#7511603" />
+        <adv-syn id="r#322558" label="dolefully.r.01" noun-id="n#7548220" />
+        <adv-syn id="r#202206" label="eagerly.r.01" noun-id="n#7570749" />
+        <adv-syn id="r#166233" label="seriously.r.01" noun-id="n#7527554" />
+        <adv-syn id="r#148912" label="easily.r.01" noun-id="n#7531213" />
+        <adv-syn id="r#329628" label="embarrassingly.r.01" noun-id="n#7522337" />
+        <adv-syn id="r#193863" label="sympathetically.r.02" noun-id="n#7570421" />
+        <adv-syn id="r#330072" label="encouragingly.r.01" noun-id="n#7556837" />
+        <adv-syn id="r#190291" label="enthusiastically.r.01" noun-id="n#7570579" />
+        <adv-syn id="r#304549" label="enviously.r.01" noun-id="n#7565182" />
+        <adv-syn id="r#4306" label="enviably.r.01" noun-id="n#7565182" />
+        <adv-syn id="r#247536" label="expectantly.r.01" noun-id="n#7526162" />
+        <adv-syn id="r#325982" label="ebulliently.r.01" noun-id="n#7571212" />
+        <adv-syn id="r#337268" label="exuberantly.r.01" noun-id="n#7571212" />
+        <adv-syn id="r#229039" label="exultantly.r.01" noun-id="n#7543205" />
+        <adv-syn id="r#232060" label="favorably.r.01" noun-id="n#7515653" />
+        <adv-syn id="r#200994" label="fearfully.r.01" noun-id="n#7534492" />
+        <adv-syn id="r#200994" label="fearfully.r.01" noun-id="n#7534492" />
+        <adv-syn id="r#201116" label="fearlessly.r.01" noun-id="n#7541421" />
+        <adv-syn id="r#142519" label="feverishly.r.01" noun-id="n#7526619" />
+        <adv-syn id="r#345046" label="forlornly.r.01" noun-id="n#7549496" />
+        <adv-syn id="r#225897" label="furiously.r.03" noun-id="n#7532236" />
+        <adv-syn id="r#350578" label="gloatingly.r.01" noun-id="n#7547664" />
+        <adv-syn id="r#234045" label="gloomily.r.01" noun-id="n#7548645" />
+        <adv-syn id="r#272695" label="appreciatively.r.01" noun-id="n#7519768" />
+        <adv-syn id="r#272695" label="appreciatively.r.01" noun-id="n#7519582" />
+        <adv-syn id="r#353034" label="grievously.r.01" noun-id="n#7550398" />
+        <adv-syn id="r#353034" label="grievously.r.01" noun-id="n#7550398" />
+        <adv-syn id="r#50835" label="happily.r.01" noun-id="n#7541996" />
+        <adv-syn id="r#356040" label="hatefully.r.01" noun-id="n#7561835" />
+        <adv-syn id="r#356954" label="heartlessly.r.01" noun-id="n#7521388" />
+        <adv-syn id="r#147156" label="hesitantly.r.01" noun-id="n#7538724" />
+        <adv-syn id="r#184128" label="hilariously.r.01" noun-id="n#7544765" />
+        <adv-syn id="r#184128" label="hilariously.r.01" noun-id="n#7544765" />
+        <adv-syn id="r#201575" label="hopefully.r.02" noun-id="n#7526972" />
+        <adv-syn id="r#201672" label="hopefully.r.01" noun-id="n#7526972" />
+        <adv-syn id="r#201575" label="hopefully.r.02" noun-id="n#7556441" />
+        <adv-syn id="r#201672" label="hopefully.r.01" noun-id="n#7556441" />
+        <adv-syn id="r#201575" label="hopefully.r.02" noun-id="n#7556704" />
+        <adv-syn id="r#201672" label="hopefully.r.01" noun-id="n#7556704" />
+        <adv-syn id="r#319159" label="dispiritedly.r.01" noun-id="n#7557637" />
+        <adv-syn id="r#201821" label="hopelessly.r.03" noun-id="n#7557637" />
+        <adv-syn id="r#248938" label="horrifyingly.r.01" noun-id="n#7535650" />
+        <adv-syn id="r#56878" label="dreadfully.r.01" noun-id="n#7535650" />
+        <adv-syn id="r#358561" label="hideously.r.01" noun-id="n#7535650" />
+        <adv-syn id="r#243937" label="belligerently.r.01" noun-id="n#7563271" />
+        <adv-syn id="r#360891" label="huffily.r.01" noun-id="n#7533108" />
+        <adv-syn id="r#212529" label="humiliatingly.r.01" noun-id="n#7524370" />
+        <adv-syn id="r#212529" label="humiliatingly.r.01" noun-id="n#7524370" />
+        <adv-syn id="r#362506" label="hysterically.r.01" noun-id="n#7535746" />
+        <adv-syn id="r#174984" label="impatiently.r.01" noun-id="n#7529310" />
+        <adv-syn id="r#374152" label="indifferently.r.01" noun-id="n#7520915" />
+        <adv-syn id="r#374285" label="indignantly.r.01" noun-id="n#7532976" />
+        <adv-syn id="r#225897" label="furiously.r.03" noun-id="n#7532656" />
+        <adv-syn id="r#379514" label="insecurely.r.01" noun-id="n#7540157" />
+        <adv-syn id="r#304549" label="enviously.r.01" noun-id="n#7565545" />
+        <adv-syn id="r#385526" label="jealously.r.01" noun-id="n#7565545" />
+        <adv-syn id="r#350043" label="gleefully.r.01" noun-id="n#7542591" />
+        <adv-syn id="r#350043" label="gleefully.r.01" noun-id="n#7542591" />
+        <adv-syn id="r#350246" label="joylessly.r.01" noun-id="n#7552764" />
+        <adv-syn id="r#350246" label="joylessly.r.01" noun-id="n#7552764" />
+        <adv-syn id="r#388085" label="languorously.r.01" noun-id="n#7531461" />
+        <adv-syn id="r#388085" label="languorously.r.01" noun-id="n#7499249" />
+        <adv-syn id="r#394265" label="lividly.r.01" noun-id="n#7532531" />
+        <adv-syn id="r#230690" label="fondly.r.01" noun-id="n#7558676" />
+        <adv-syn id="r#266729" label="adorably.r.01" noun-id="n#7558676" />
+        <adv-syn id="r#396626" label="malevolently.r.01" noun-id="n#7565835" />
+        <adv-syn id="r#202504" label="maliciously.r.01" noun-id="n#7566132" />
+        <adv-syn id="r#194576" label="mercifully.r.01" noun-id="n#7570065" />
+        <adv-syn id="r#404848" label="miserably.r.01" noun-id="n#7549366" />
+        <adv-syn id="r#404848" label="miserably.r.01" noun-id="n#7549366" />
+        <adv-syn id="r#406532" label="mournfully.r.01" noun-id="n#7550597" />
+        <adv-syn id="r#406532" label="mournfully.r.01" noun-id="n#7550597" />
+        <adv-syn id="r#274737" label="amok.r.02" noun-id="n#7563013" />
+        <adv-syn id="r#415941" label="oppressively.r.01" noun-id="n#7554062" />
+        <adv-syn id="r#416162" label="optimistically.r.01" noun-id="n#7556946" />
+        <adv-syn id="r#420622" label="peaceably.r.01" noun-id="n#7531029" />
+        <adv-syn id="r#421486" label="pensively.r.01" noun-id="n#7548995" />
+        <adv-syn id="r#416346" label="pessimistically.r.01" noun-id="n#7558421" />
+        <adv-syn id="r#425154" label="placidly.r.01" noun-id="n#7530408" />
+        <adv-syn id="r#427364" label="plaintively.r.01" noun-id="n#7550818" />
+        <adv-syn id="r#191358" label="proudly.r.01" noun-id="n#7523725" />
+        <adv-syn id="r#191358" label="proudly.r.01" noun-id="n#7546924" />
+        <adv-syn id="r#212695" label="protectively.r.01" noun-id="n#7560673" />
+        <adv-syn id="r#366906" label="penitently.r.01" noun-id="n#7552258" />
+        <adv-syn id="r#311025" label="detestably.r.01" noun-id="n#7519226" />
+        <adv-syn id="r#443329" label="resentfully.r.01" noun-id="n#7564444" />
+        <adv-syn id="r#265770" label="abjectly.r.01" noun-id="n#7557821" />
+        <adv-syn id="r#443633" label="resignedly.r.01" noun-id="n#7557821" />
+        <adv-syn id="r#445354" label="reverentially.r.01" noun-id="n#7536278" />
+        <adv-syn id="r#93820" label="deplorably.r.01" noun-id="n#7547828" />
+        <adv-syn id="r#406411" label="sadly.r.02" noun-id="n#7547828" />
+        <adv-syn id="r#184950" label="gratifyingly.r.01" noun-id="n#7546643" />
+        <adv-syn id="r#15830" label="satisfactorily.r.01" noun-id="n#7546643" />
+        <adv-syn id="r#347587" label="frighteningly.r.01" noun-id="n#7536676" />
+        <adv-syn id="r#441580" label="reassuringly.r.01" noun-id="n#7541577" />
+        <adv-syn id="r#450311" label="self-consciously.r.01" noun-id="n#7522568" />
+        <adv-syn id="r#450751" label="sensationally.r.01" noun-id="n#14060962" />
+        <adv-syn id="r#315026" label="disgracefully.r.01" noun-id="n#7521808" />
+        <adv-syn id="r#453487" label="shamefacedly.r.01" noun-id="n#7522799" />
+        <adv-syn id="r#453487" label="shamefacedly.r.01" noun-id="n#7522799" />
+        <adv-syn id="r#463192" label="solicitously.r.01" noun-id="n#7520446" />
+        <adv-syn id="r#322558" label="dolefully.r.01" noun-id="n#7549818" />
+        <adv-syn id="r#464053" label="sorrowfully.r.01" noun-id="n#7549818" />
+        <adv-syn id="r#322558" label="dolefully.r.01" noun-id="n#7551058" />
+        <adv-syn id="r#464053" label="sorrowfully.r.01" noun-id="n#7551058" />
+        <adv-syn id="r#214599" label="amazingly.r.01" noun-id="n#7525587" />
+        <adv-syn id="r#146264" label="surprisingly.r.01" noun-id="n#7525587" />
+        <adv-syn id="r#474199" label="surprisedly.r.01" noun-id="n#7525587" />
+        <adv-syn id="r#193863" label="sympathetically.r.02" noun-id="n#7568767" />
+        <adv-syn id="r#477976" label="tenderly.r.01" noun-id="n#7569907" />
+        <adv-syn id="r#230526" label="shyly.r.01" noun-id="n#7537968" />
+        <adv-syn id="r#188416" label="tranquilly.r.01" noun-id="n#7530799" />
+        <adv-syn id="r#481122" label="timorously.r.01" noun-id="n#7537282" />
+        <adv-syn id="r#196625" label="triumphantly.r.01" noun-id="n#7543485" />
+        <adv-syn id="r#268077" label="unassertively.r.01" noun-id="n#7538888" />
+        <adv-syn id="r#487539" label="unconcernedly.r.01" noun-id="n#7520777" />
+        <adv-syn id="r#445141" label="revengefully.r.01" noun-id="n#7566357" />
+        <adv-syn id="r#93820" label="deplorably.r.01" noun-id="n#7549265" />
+        <adv-syn id="r#93820" label="deplorably.r.01" noun-id="n#7549265" />
+        <adv-syn id="r#184576" label="wonderfully.r.01" noun-id="n#7525235" />
+        <adv-syn id="r#499496" label="wrathfully.r.01" noun-id="n#7532144" />
+    </adv-syn-list>
+</syn-list>

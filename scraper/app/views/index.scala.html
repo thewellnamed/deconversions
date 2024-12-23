@@ -1,0 +1,32 @@
+@(view: String, 
+  index: Long,
+  imageId: Long,
+  csrfToken: play.filters.csrf.CSRF.Token)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="@routes.WebJarAssets.at(WebJarAssets.locate("bootstrap", "bootstrap.min.css"))">
+    <link rel="stylesheet" href="@routes.Assets.versioned("stylesheets/main.css")">
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.locate("jquery.min.js"))"></script>
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.locate("js.cookie.js"))"></script>
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.fullPath("historyjs", "scripts/bundled/html4+html5/jquery.history.js"))"></script>
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.locate("bootstrap", "bootstrap.min.js"))"></script>
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.fullPath("react", "react.min.js"))"></script>
+    <script type="text/javascript" src="@routes.WebJarAssets.at(WebJarAssets.fullPath("react", "react-dom.min.js"))"></script>
+    <title>MRA Study Viewer</title>
+</head>
+<body>
+    <div id="content"></div>
+    <script type="text/javascript" src="@routes.Assets.versioned("javascripts/viewer-complete.js")"></script>
+    <script type="text/javascript">
+    	ViewerConfig = {
+    		view: '@view',
+    		index: @index,
+    		imageId: @imageId,
+    		csrf: { name: '@csrfToken.name', value: '@csrfToken.value' },
+    	}
+    	ReactDOM.render(React.createElement(Viewer, null), document.getElementById('content'));
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+---
+name: wordnet-emotions
+module: wordnet-emotions
+description: 'Provides Wordnet-Affect data in JSON form'
+author: "@icorcuera @balkian @matthew.kauffman"
+version: '1'
+synsets_path: "/data/a-synsets-3.1.xml"
+hierarchy_path: "/data/a-hierarchy.xml"
+wn_path: "../../wordnet/3.1/dict"
+onyx:usesEmotionModel: emoml:big6
+requirements:
+- nltk>=3.2.4
+- lxml>=3.4.2
+async: false

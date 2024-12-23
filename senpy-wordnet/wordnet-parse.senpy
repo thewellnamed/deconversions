@@ -1,0 +1,13 @@
+---
+name: wordnet-parse
+module: wordnet-parse
+description: 'Returns a set of terms found in the document with corresponding wordnet senses and word counts'
+author: "@icorcuera @balkian @matthew.kauffman"
+version: '1'
+synsets_path: "/data/a-synsets-3.1.xml"
+hierarchy_path: "/data/a-hierarchy.xml"
+wn_path: "../../wordnet/3.1/dict"
+requirements:
+- nltk>=3.2.4
+- lxml>=3.4.2
+async: false
